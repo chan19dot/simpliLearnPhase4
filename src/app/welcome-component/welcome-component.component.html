@@ -1,0 +1,19 @@
+<div class="container text-light bg-dark py-10 ">
+    <h1 class="display-5 fw-bold text-bold">welcome to the quiz</h1>
+    <p class="col-md-8 fs-4 ">This quiz contains 5 questions</p>
+    <h4 class="text-bold">Rules:</h4>
+    <ol>
+        
+        <li>No negative marking</li>
+        <li>Correct answer gives 4 points</li>
+        <li>Refreshing the page will reset the quiz</li>
+        
+    </ol>
+    <h5 style="font-family:cursive; text-align:center;"  >All the best!!</h5>
+    <div class="name col-md-4 my-5">
+        <label for="">Enter your name:</label>
+        <input #name type="text" class="form-control">
+
+    </div>
+    <button class="btn btn-light" routerLink="/question" (click)="startQuiz()">click here to start</button>
+</div>

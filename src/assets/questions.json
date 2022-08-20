@@ -1,0 +1,94 @@
+{
+    "questions": [{
+            "questionText": "What happened to Anakin Skywalker during the battle with Count Dooku?",
+            "options": [{
+                    "text": "He lost his left leg"
+                    
+                },
+                {
+                    "text": "He lost his right arm",
+                    "correct": true
+                },
+                {
+                    "text": "He lost his right leg"
+                },
+                {
+                    "text": "He lost"
+                }
+            ],
+            "explanation": "He lost his right arm"
+        },
+        {
+            "questionText": "Who played the part of Commander Cody?",
+            "options": [{
+                    "text": "Jay Lagaaia"
+                },
+                {
+                    "text": "Ahmed Best"
+                },
+                {
+                    "text": "Joel Edgerton"
+                },
+                {
+                    "text": "Temuera Morrison",
+                    "correct": true
+                }
+            ],
+            "explanation": "Temuera Morrison"
+        },
+        {
+            "questionText": "What did Luke Skywalker lose in his fight with Darth Vader?",
+            "options": [{
+                    "text": "His left hand."
+                },
+                {
+                    "text": "His right hand.",
+                    "correct": true
+                },
+                {
+                    "text": "His left foot."
+                },
+                {
+                    "text": "His left leg."
+                }
+            ],
+            "explanation": "His right hand."
+        },
+        {
+            "questionText": "According to the Emperor, what was Luke Skywalker weakness?",
+            "options": [{
+                    "text": "His faith in the Light Side of the Force"
+                },
+                {
+                    "text": "His faith in his friends",
+                    "correct": true
+                },
+                {
+                    "text": "His lack of vision"
+                },
+                {
+                    "text": "His resistance to the Dark Side of the Force"
+                }
+            ],
+            "explanation": "His faith in his friends"
+        },
+        {
+            "questionText": "Where did the Clone Wars begin?",
+            "options": [{
+                    "text": "Tatooine"
+                },
+                {
+                    "text": "Geonosis",
+                    "correct": true
+                },
+                {
+                    "text": "Naboo"
+                },
+                {
+                    "text": "Coruscant"
+                }
+            ],
+            "explanation": "Geonosis"
+        }
+    ]
+}
